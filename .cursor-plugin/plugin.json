@@ -1,0 +1,14 @@
+{
+  "name": "rivet",
+  "displayName": "Rivet",
+  "description": "Visual web editing with AI-powered code modification.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rivet"
+  },
+  "homepage": "https://rivet.design",
+  "repository": "https://github.com/rivet-design/cursor-plugin",
+  "license": "GPL-3.0-or-later",
+  "keywords": ["design", "visual-editing", "frontend", "ui", "mcp"],
+  "logo": "assets/logo.png"
+}
